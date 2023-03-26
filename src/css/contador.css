@@ -1,0 +1,9 @@
+.contador{
+  height: 6rem;
+  width: 11.5rem;
+  background-color: blueviolet;
+  border: 2px solid red;
+  font-size: 5rem;
+  
+  text-align: center;
+}
